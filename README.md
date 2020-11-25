@@ -13,7 +13,7 @@ In this project, I used a kaggle dataset of Boston Airbnb listings. I was intere
 3. Which neighbourhood would have the least/most expensive listings?
 4. What features adversely predict the price of an Airbnb listing the most?
 ## File Descriptions
-There is 1 file that was used for this study. It is titled "listings_csv"
+There is 1 file that was used for this study. It is titled "boston_listings.csv"
 ## Results
 The main findings can be found <a href="https://brandon-data.medium.com/the-boston-airbnb-experience-4c09208d4c3f">here</a>
 ## Licensing, Authors, Acknowledgments
